@@ -1,0 +1,16 @@
+C:\Users\fml\source\repos\notas-moedas\bin\Debug\net5.0\notas-moedas.exe
+C:\Users\fml\source\repos\notas-moedas\bin\Debug\net5.0\notas-moedas.deps.json
+C:\Users\fml\source\repos\notas-moedas\bin\Debug\net5.0\notas-moedas.runtimeconfig.json
+C:\Users\fml\source\repos\notas-moedas\bin\Debug\net5.0\notas-moedas.runtimeconfig.dev.json
+C:\Users\fml\source\repos\notas-moedas\bin\Debug\net5.0\notas-moedas.dll
+C:\Users\fml\source\repos\notas-moedas\bin\Debug\net5.0\ref\notas-moedas.dll
+C:\Users\fml\source\repos\notas-moedas\bin\Debug\net5.0\notas-moedas.pdb
+C:\Users\fml\source\repos\notas-moedas\obj\Debug\net5.0\notas-moedas.csprojAssemblyReference.cache
+C:\Users\fml\source\repos\notas-moedas\obj\Debug\net5.0\notas-moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fml\source\repos\notas-moedas\obj\Debug\net5.0\notas-moedas.AssemblyInfoInputs.cache
+C:\Users\fml\source\repos\notas-moedas\obj\Debug\net5.0\notas-moedas.AssemblyInfo.cs
+C:\Users\fml\source\repos\notas-moedas\obj\Debug\net5.0\notas-moedas.csproj.CoreCompileInputs.cache
+C:\Users\fml\source\repos\notas-moedas\obj\Debug\net5.0\notas-moedas.dll
+C:\Users\fml\source\repos\notas-moedas\obj\Debug\net5.0\ref\notas-moedas.dll
+C:\Users\fml\source\repos\notas-moedas\obj\Debug\net5.0\notas-moedas.pdb
+C:\Users\fml\source\repos\notas-moedas\obj\Debug\net5.0\notas-moedas.genruntimeconfig.cache
